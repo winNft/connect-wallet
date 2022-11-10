@@ -1,3 +1,3 @@
-# Starter code for Faucet dApp tutorial
+# Starter code for winNft App tutorial
 
 Boilerplate code consisting of a new create-react-app project and some basic HTML and CSS.

@@ -5,7 +5,7 @@ body {
 }
 
 .title {
-  color: white;
+  color: rgb(240, 193, 50);
   margin-bottom: 1 rem;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 .panel-heading {
-  xbackground-image: linear-gradient(to left,#38052F, #070709);
+  background-image: linear-gradient(to left,#000000, #F0c132);
   background-color: black;
   color: white;
 }
@@ -28,7 +28,7 @@ body {
 }
 
 .box .title {
-  color: #333;
+  color: rgb(0, 0, 0);
 }
 
 .navbar {
@@ -36,15 +36,15 @@ body {
 }
 
 .navbar .navbar-item {
-  color: white;
+  color: rgb(247, 247, 247);
 }
 
 .connect-wallet span {
-  color: #E10859;
+  color: #F0c132;
 }
 
 .connect-wallet:hover {
-  background-color: #e1e1e1 !important;
+  background-color: #f7f7f7 !important;
 }
 
 .container.main-content {

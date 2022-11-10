@@ -66,7 +66,7 @@ function App() {
       <nav className="navbar">
         <div className="container">
           <div className="navbar-brand">
-            <h1 className="navbar-item is-size-4">Ocean Token (OCT)</h1>
+            <h1 className="navbar-item is-size-4">winNft</h1>
           </div>
           <div id="navbarMenu" className="navbar-menu">
             <div className="navbar-end is-align-items-center">
@@ -90,8 +90,8 @@ function App() {
       <section className="hero is-fullheight">
         <div className="faucet-hero-body">
           <div className="container has-text-centered main-content">
-            <h1 className="title is-1">Faucet</h1>
-            <p>Fast and reliable. 50 OCT/day.</p>
+            <h1 className="title is-1">TigerDime</h1>
+            <p>Fast and reliable. 50 TDM/day.</p>
             <div className="box address-box">
               <div className="columns">
                 <div className="column is-four-fifths">
@@ -102,9 +102,7 @@ function App() {
                   />
                 </div>
                 <div className="column">
-                  <button className="button is-link is-medium">
-                    GET TOKENS
-                  </button>
+                 
                 </div>
               </div>
               <article className="panel is-grey-darker">
